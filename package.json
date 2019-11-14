@@ -1,0 +1,31 @@
+{
+  "name": "rn-falcon-react-native-timer-countdown",
+  "version": "4.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richi2293/react-native-timer-countdown"
+  },
+  "keywords": [
+    "ios",
+    "android",
+    "react-component",
+    "react-native"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richi2293/react-native-timer-countdown/issues"
+  },
+  "homepage": "https://github.com/Richi2293/react-native-timer-countdown#readme",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "react-test-renderer": "16.6.3"
+  }
+}
